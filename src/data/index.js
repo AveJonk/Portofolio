@@ -85,17 +85,17 @@ const portfolio = [
   },
   {
     name: "Website List Kelas",
-    description:"Website saya buat berdasarkan pembalajaran yang ada disekolah mengenai Laravel, pada website ini saya bisa menambah, menghapus, dan mengedit list kelas sesuka hati saya",
+    description:"Website saya buat berdasarkan pembelajaran yang ada disekolah mengenai Laravel, pada website ini saya bisa menambah, menghapus, dan mengedit daftar kelas sesuka hati saya",
     image: Kelas,
   },
   {
     name: "Website List Siswa Narative",
-    description:"Website saya buat berdasarkan pembalajaran yang ada disekolah mengenai Narative, pada website ini saya bisa menambah, menghapus, dan mengedit list siswa sesuka hati saya",
+    description:"Website saya buat berdasarkan pembalajaran yang ada disekolah mengenai Narative, pada website ini saya bisa menambah, menghapus, dan mengedit daftar siswa sesuka hati saya",
     image: Siswa,
   },
   {
     name: "Website BookStore",
-    description: "Website ini saya buat untuk menyelesaikan tugas akhir saya di kelas 10. Ini adalah website simpel seperti List siswa, website ini menggunakan HTML, CSS, dan Javascript dasar",
+    description: "Website ini saya buat untuk menyelesaikan tugas akhir saya di kelas 10. Ini adalah website simpel seperti daftar siswa, website ini menggunakan HTML, CSS, dan Javascript dasar",
     image: ListBuku,
   },
   {
