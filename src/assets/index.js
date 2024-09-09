@@ -14,6 +14,10 @@ import Siswa from "./Siswa.png";
 import ListBuku from "./List Buku.png";
 import Game from "./KisahSekolah.png";
 import Belanja from "./Belanja.png";
+import Front from "./FE.png";
+import Back from "./BE.png";
+import Alat from "./TO.png";
+import User from "./SS.png";
 
-export { algorithms, close, devnotes, logo, menu, oscs, resep, Movie, FanBook, Cafe, Kelas, Siswa, ListBuku, Game, Belanja };
+export { algorithms, close, devnotes, logo, menu, oscs, resep, Movie, FanBook, Cafe, Kelas, Siswa, ListBuku, Game, Belanja, Front,Back,Alat,User };
 
